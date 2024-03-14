@@ -1,0 +1,10 @@
+.{
+    .name = "nofucks",
+    .version = "2024.0.0",
+
+    .paths = .{
+        "src",
+        "build.zig",
+        "build.zig.zon",
+    },
+}
